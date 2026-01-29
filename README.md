@@ -1,4 +1,4 @@
-🚀 Global Space Exploration Analysis (2000–2025)
+#🚀 Global Space Exploration Analysis (2000–2025)
 
 An interactive Power BI dashboard for analyzing global space missions, investments, technologies, and success trends over 25 years.
 
