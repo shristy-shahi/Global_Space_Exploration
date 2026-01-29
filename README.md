@@ -1,8 +1,8 @@
-🚀 Global Space Exploration Analysis (2000–2025)
+##🚀 Global Space Exploration Analysis (2000–2025)
 
 An interactive Power BI dashboard for analyzing global space missions, investments, technologies, and success trends over 25 years.
 
-📝 Project Description
+##📝 Project Description
 
 This project presents a comprehensive Global Space Exploration Analysis Dashboard built using Power BI, designed to provide deep, interactive, and visually intuitive insights into space missions conducted worldwide between 2000 and 2025. The dashboard enables users to explore how space exploration has evolved over time in terms of mission volume, budget allocation, technological adoption, success rates, and environmental impact.
 
@@ -10,7 +10,7 @@ The analysis goes beyond basic statistics by uncovering patterns across countrie
 
 By transforming raw mission data into meaningful visual insights, this project demonstrates the practical application of data visualization, exploratory data analysis (EDA), and DAX calculations to a real-world, technology-driven domain.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Power BI – Data visualization, dashboard development, and interactivity
 
@@ -20,7 +20,7 @@ DAX (Data Analysis Expressions) – KPI creation and analytical measures
 
 Microsoft Excel / CSV – Data preprocessing and storage
 
-📊 Data Source
+##📊 Data Source
 
 The dataset used in this project was sourced from Kaggle and contains structured information on global space missions.
 
@@ -109,7 +109,7 @@ Country Slicer: Focus on individual nations or compare multiple countries
 
 
 
-🎯 Key Insights
+##🎯 Key Insights
 
 Global space exploration has shifted toward efficiency-driven missions rather than continuously increasing budgets.
 
@@ -119,7 +119,7 @@ Space exploration is no longer dominated by a few nations; emerging countries ar
 
 Environmental sustainability is becoming an important factor in mission planning.
 
-📌 Use Cases
+##📌 Use Cases
 
 Academic projects and research
 
@@ -129,12 +129,12 @@ Space exploration trend analysis
 
 Portfolio showcase for data analytics roles
 
-📜 License
+##📜 License
 
 This project is created for educational and academic purposes.
 Dataset credits belong to the original Kaggle contributors.
 
-🤝 Connect With Me
+##🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/shristy-shahi-155471298/
 
