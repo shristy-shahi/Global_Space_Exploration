@@ -102,7 +102,7 @@ Country Slicer: Focus on individual nations or compare multiple countries
 ---
 
 ## 📷 Dashboard Screenshots
-
+https://github.com/shristy-shahi/Global_Space_Exploration/blob/main/Dash_Board.png
 
 
 # 🎯 Key Insights
